@@ -1,7 +1,7 @@
 # Hasil-Presentasi-BTS
 Nama  : Muhammad Kabir Akmal
 
-Nim   : 09011382025149
+Nim   : 09011382025126
 
 Program Studi : Sistem Komputer
 
